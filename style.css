@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.name{
+    font-family: 'Noto Sans Gujarati', sans-serif;
+    text-align: center;
+    background-color: rgb(255, 204, 0);
+    color: rgb(0, 0, 0);
+}
+
+.text{
+    margin: 0;
+}
+
+.countener{
+    width:1250px;
+    margin: 0 auto;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float: right;
+}
+
+header{
+    background-color: #101820FF;
+    height: 100px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logo{
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.logo li{
+    display: inline-block;
+}
+
+.logo li a img{
+    max-width: 150px;
+    max-height: 60px;  
+}
+
+.search{
+    display: inline-block;
+    margin-top: 21px;
+    margin-left: 130px;
+    margin-bottom: 0;
+}
+
+.input-search{
+    font-size: 20px;
+    padding: 10px 150px 10px 10px;
+    border-radius: 10px;
+}
+
+.head-text{
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.head-text li{
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.cart-font{
+    color: #F2AA4CFF;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.cart-img{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.login-text{
+    font-size: 25px;
+    background-color: #101820FF;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 40px;
+    color: #F2AA4CFF;
+    margin-left: 15px;
+}
+
+.login-text:hover{color: #101820FF;background-color: #F2AA4CFF;}
